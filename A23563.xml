@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and end of Thomas Awfeeld a seminary preest and Thomas Webley a dyers seruant in London beeing both traitours who were condemned as fellons for bringing seditious books into this realme and dispersing of the same, among their fauourers: for which they were executed at Tibourne the 6. day of this monthe of Iuly. 1585.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23563</idno>
+            <idno type="STC">STC 997</idno>
+            <idno type="STC">ESTC S119197</idno>
+            <idno type="EEBO-CITATION">99854404</idno>
+            <idno type="PROQUEST">99854404</idno>
+            <idno type="VID">19824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 949:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and end of Thomas Awfeeld a seminary preest and Thomas Webley a dyers seruant in London beeing both traitours who were condemned as fellons for bringing seditious books into this realme and dispersing of the same, among their fauourers: for which they were executed at Tibourne the 6. day of this monthe of Iuly. 1585.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>For Thomas Nelson dwelling at the west end of Paules,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1585]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Signatures: A.</note>
+                  <note>Imperfect; much print show-through. Imperfect as filmed; some pages blurred.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alfield, Thomas, 1552-1585.</term>
+               <term>Webley, Thomas, d. 1585.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19824:1"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:19824:1"/>
+            <!-- PDF PAGE 8 -->
+            <p>
+               <g ref="char:leaf">❧</g> The Life and end of Thomas Awfeeld a Se<g ref="char:EOLunhyphen"/>minary Preeſt and Thomas Webley a Dyers ſeruant in <hi>London,</hi> béeing both Traitours who were Condemned as Fel<g ref="char:EOLhyphen"/>lons for bringing ſeditious books into this Realme and diſperſing of the ſame, a<g ref="char:EOLhyphen"/>mong their fauourers: for which they were Executed at <hi>Tibourne</hi> the 6. day of this Monthe of <hi>Iuly.</hi> 1585.</p>
+            <p>Imprinted at London for Thomas Nelſon dwelling at the weſt end of Paules.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:19824:2"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:19824:2"/>
+            <!-- PDF PAGE 9 -->
+            <p>
+               <seg rend="decorInit">I</seg>T is ſufficiently known vnto many honorable per<g ref="char:EOLhyphen"/>ſonages and diuers other of this Realme, how this lewd préeſt <hi>Awfield</hi> hath of long time liued about London, ſecretly ſeducing the people to embrace his deuiliſh doctrine and to win them from their due alleaga<g ref="char:cmbAbbrStroke">̄</g>ce towards God and their Prince, and how by fre<g ref="char:EOLhyphen"/>quenting the company of diuers ignora<g ref="char:cmbAbbrStroke">̄</g>t and ſimple people: he did win them to be pertakers of his Romiſh &amp; Antechriſ<g ref="char:EOLhyphen"/>tian Sinagoge. And to the end that ſome parte of his life and religion may plainly appéere to the co<g ref="char:cmbAbbrStroke">̄</g>mon people, as alſo that the true cauſe of his death and his fellow companion may ſufficiently be known: I haue taken in hand this ſhort diſcourſe chéefly to beat downe the vntrue reports of their fauorers and fellowe Traitours who ſecretly murmure that their death was only for Conſcience take and their Religion being Papiſts, although it ſhal be euidently ſéen by the ſequel that they died rebellious traitours to God, their Prince and Cuntry. And yet notwith<g ref="char:EOLhyphen"/>ſtanding, receiued greater fauour of law
+<pb facs="tcp:19824:3"/>
+               <!-- PDF PAGE 10 -->then either their offence deſerued<g ref="char:punc">▪</g> or the<g ref="char:cmbAbbrStroke">̄</g> ſelues or their fauourers would on the contrary parte haue miniſtred. And that their life &amp; procéedings may generally be ſeen to all good ſubiects: I haue perticu<g ref="char:EOLhyphen"/>lerly and bréefly ſet downe the trueth of the ſame, as well to ſatiſfie them héerin As alſo to admoniſh others how to ſhun their peſtilent doctrine wher within ma<g ref="char:EOLhyphen"/>ny places they doo great harme, the Lord for his mercie ſake root them out ſpéedily <hi>Amen.</hi>
+            </p>
+            <div type="part">
+               <head>¶ The life and proceedings of Thomas Awfeeld a Seminary Preeſt being a ſeditious perſon</head>
+               <p>THis <hi>Awfeeld</hi> was borne in the towne of <hi>Gloceſter,</hi> his Father be<g ref="char:EOLhyphen"/>ing a Schoolmaiſter: brought him vp in good Litterature, wherin af<g ref="char:EOLhyphen"/>ter he had béen ſufficiently trained (ha<g ref="char:EOLhyphen"/>uing his lattine tung), he went beyond the ſeas and was there reconciled to the Pope, and entred into the vowe of préeſt hood in the, Seminary at <hi>Rheimes</hi> and being there nuſſeled vp among many the olde Caterpillers of that Church,
+<pb facs="tcp:19824:3"/>
+                  <!-- PDF PAGE 10 -->he was ſent into England with other Se<g ref="char:EOLhyphen"/>minaries to inſence &amp; ſeduce the people, a<g ref="char:EOLhyphen"/>gainſt their Prince and Cuntry, and as much as in him lay to perſwade them from their due obedience againſt their naturall and péereleſſe Soueraigne yea to lay violent handes, vpon her and ſéek to ſubuert and diſplace her high<g ref="char:EOLhyphen"/>nes (whome God long preſerue); yea and to murdure and make hauock on Chriſti<g ref="char:EOLhyphen"/>an Princes therby to bring in and ad<g ref="char:EOLhyphen"/>uaunce the Romiſh religio<g ref="char:cmbAbbrStroke">̄</g> to the vtter<g ref="char:EOLhyphen"/>moſte of their powers. This deteſtable Courſe took ſuch effect in theſe hel-hou<g ref="char:cmbAbbrStroke">̄</g>ds that they after their comming inſenced a number who haue ſundry waies attemp<g ref="char:EOLhyphen"/>ted the ſame aſwell in ſéeking to mur<g ref="char:EOLhyphen"/>ther her maieſtie as alſo in betraying of the Realme, to bring in forraine Inuaſi<g ref="char:EOLhyphen"/>on and therby to ſpoyle the life and goods of euery good ſubiect. A plaine example wherof you had lately by <hi>Throgmorton</hi> &amp; <hi>William Parry</hi> alias <hi>ap harry:</hi> yea &amp; di<g ref="char:EOLhyphen"/>uers others who moſte worthily haue béen executed for the ſame. And ſuch Hipo<g ref="char:EOLunhyphen"/>tiks as theſe abhominable Seminaries weer perſwaders of the<g ref="char:cmbAbbrStroke">̄</g> to too it to their vtter confuſion, ſhame &amp; diſgrace to their
+<pb facs="tcp:19824:4"/>
+                  <!-- PDF PAGE 11 -->line and ſucceſſours for euer. This <hi>Ie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ticall</hi> préeſt, being a ſeducer among y<hi rend="sup">e</hi> reſt was taken and Impriſoned in the Tow<g ref="char:EOLhyphen"/>er of London, and afterward vpon his hi<g ref="char:EOLhyphen"/>pocritical ſubmiſſio<g ref="char:cmbAbbrStroke">̄</g> he was ſet at liberty yet not co<g ref="char:cmbAbbrStroke">̄</g>te<g ref="char:cmbAbbrStroke">̄</g>ted w<hi rend="sup">t</hi> this her maieſties gra<g ref="char:EOLhyphen"/>tious pardon he departed ouer Sea and returned priuely, bringing ouer about <hi>300.</hi> books &amp; vpward, containing nothing but treaſon, hereſie, blaſphemy, and de<g ref="char:EOLhyphen"/>teſtable doctrine writen by an Arch-Pa<g ref="char:EOLhyphen"/>piſt called <hi>D. Allin</hi> which books he co<g ref="char:cmbAbbrStroke">̄</g>men<g ref="char:EOLhyphen"/>ded and did cauſe them to be diſpearſed by his fauourers eſpecially by <hi>Thomas Webley,</hi> and <hi>William Crab</hi> both notori<g ref="char:EOLhyphen"/>ous Papiſts who as you ſhall héer, had béen a fauourer of the Goſpel vntil they were ſeduced from it by this préeſt and o<g ref="char:EOLhyphen"/>ther as ſhall heerafter be ſhowed.</p>
+               <p>And héer is to be noted that this <hi>Awfeld</hi> not only by departing out of the Realm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and returning with theſe ſeditius books did incurre her maieſties diſpleaſure and by the lawe deſerued death as a fellon, but alſo by being found héere forty daies after the ende of the laſt parliament (be<g ref="char:EOLhyphen"/>ing a Ieſuit or Seminary Préeſt) did de<g ref="char:EOLhyphen"/>ſerue by the lawe to dye as a traitour.</p>
+               <p>
+                  <pb facs="tcp:19824:4"/>
+                  <!-- PDF PAGE 11 -->
+Theſe books before mencioned being co<g ref="char:cmbAbbrStroke">̄</g>e to light and this préeſt alſo that brought them ouer, who being taken &amp; examined was found guiltie of the ſame and after vpon the fifth day of Iuly at the ſeſſions houſe in the olde Batley was co<g ref="char:cmbAbbrStroke">̄</g>demned and adiudged w<hi rend="sup">t</hi> great fauour to be han<g ref="char:EOLhyphen"/>ged at Tibourn, onely for bringing o<g ref="char:EOLhyphen"/>uer theſe ſeditious bookes into England contrary to the lawes of this Realine the penaltie wherof is to dye as a fellon; &amp; the diſperſers or publiſhers of ſuch like books to receiue the ſame puniſhment, And this was the cauſe of his death, al<g ref="char:EOLhyphen"/>though he deſerued a ſharper puniſhme<g ref="char:cmbAbbrStroke">̄</g>t in caſes of hye treaſon wherin he ſtood at the time of his death. He was a perſon of meane ſtature, not full forty yéers of age and of no ſpecial good life but liued loſely. It is known he was a gréeuous offendor to God, a Traitour to his prince and a ſecret enemy to his country, although at his death he ſéemed to cullour the mat<g ref="char:EOLhyphen"/>ter with a kinde of fained obedience as you ſhall after héer in the ſpéeth vttered at his death.</p>
+            </div>
+            <div type="part">
+               <head>¶ The life of Thomas Weblyn.</head>
+               <pb facs="tcp:19824:5"/>
+               <!-- PDF PAGE 12 -->
+               <p>THis <hi>Thomas Weblin</hi> was b<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Gloceſter</hi> his Parents being of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wealth and honeſt reporte brought him vp in the feare of God, and being come to reaſonable yéers did place him in Lo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<g ref="char:cmbAbbrStroke">̄</g> with a dier being a man of good rep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>on within the Citie, where in the firſt parte of his prentiſhip he was ſo; zealouſe that what good book he could buye or bor<g ref="char:EOLhyphen"/>rowe to read, or what good ſermone he could repaire vnto he accounted it y<hi rend="sup">e</hi> grea<g ref="char:EOLunhyphen"/>teſt felicitie he had and continued in that kinde of profeſſion a long time vntill his going downe with <hi>Awfeeld</hi> to <hi>Gloceſter,</hi> who being a Préeſt and a ranke Papiſt, did ſo incenſe and perſwade this <hi>Weblin</hi> with his erronious doctrine, y<hi rend="sup">t</hi> although he went thether a proteſtant he returned an arrogant Papiſt. And moreouer <hi>Aw<g ref="char:EOLhyphen"/>feeld</hi> ſo applied his labour héerin that in ſhort time he perſwaded alſo one <hi>William Crab</hi> the ſonne of <hi>webleis</hi> miſtreſſe dw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>ling in the ſame houſe,) to be one of his ſchollers and dealt ſo farre w<hi rend="sup">t</hi> them both that he brought the<g ref="char:cmbAbbrStroke">̄</g> acquainted at <hi>Throg<g ref="char:EOLhyphen"/>mortuns</hi> houſe withone of his Seruants whoſe name was <hi>Rogers</hi> to which place they oft times did repaire and continual<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:19824:5"/>
+                  <!-- PDF PAGE 12 -->had what fréendſhip <hi>Rogers</hi> could doe for them aſwell for conference as otherwiſe ſo that <hi>webley</hi> would not co<g ref="char:cmbAbbrStroke">̄</g>e to y<hi rend="sup">e</hi> Church neither would read any book of diuinitie but priuily would ſay they were nought, heriticall, and falſely expounded or tra<g ref="char:cmbAbbrStroke">̄</g>ſ<g ref="char:EOLhyphen"/>lated. But God ſéei<g ref="char:cmbAbbrStroke">̄</g>g his wilfulnes gaue him ouer euen to the luſt of his own hart and ſuffered him to continue in his own blindenes: ſo that at the returne of this Préeſt after he had béen baniſhed, being come into England with thoſe books be<g ref="char:EOLhyphen"/>fore mencioned, did think this <hi>Weblin</hi> A méet Inſtrument for this purpoſe and made him priuie to the ſame and got him to b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the diſtributer of many of them, to thoſe whome he knew of that Sodomi<g ref="char:EOLhyphen"/>ticall Sinagoge which in ſhorte time it pleaſed God to bring to light, wherupon he was ſecretly ſent for and examined, and permitted to remaine with his maiſ<g ref="char:EOLhyphen"/>ter going vnder ſureties vntill munday y<hi rend="sup">e</hi> fifth of this July at what time he was ſent for to the Seſſions houſe, where re<g ref="char:EOLhyphen"/>maining obſtinate in defe<g ref="char:cmbAbbrStroke">̄</g>ce of y<hi rend="sup">e</hi> ſame he was condemned to be ha<g ref="char:cmbAbbrStroke">̄</g>ged at Tibourn on the next day following.</p>
+            </div>
+            <div type="part">
+               <head>The end and execution of theſe two before mentioned.</head>
+               <p>
+                  <pb facs="tcp:19824:6"/>
+                  <!-- PDF PAGE 13 -->
+Vpon the ſixt day of this Iuly 15.85. Maiſter <hi>Fidens</hi> the vſuall Miniſter accuſtomed to repaire to all condemne<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> priſoners in <hi>Newgate,</hi> came thether in the morning about fiue of the clock to confer with the two priſoners before named, and perſwaded them to prepare them toward death but they ſéemed very obſtinate ſaying that they were ſuffici<g ref="char:EOLhyphen"/>ently ſetled thereunto &amp; therfore néeded him not, and deſired him that he would let them alone, neuertheleſſe he did not neg<g ref="char:EOLhyphen"/>lect his duety towards them, but wille<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them to beleue Chriſte Ieſus, that they might die the ſeruants of the Lord; and they anſwered him that they which did not beleue as they beléeued, were dam<g ref="char:EOLhyphen"/>ned to the bottomles pit of hell fire, nei<g ref="char:EOLhyphen"/>ther could he get any better woordes of them but continued obſtinate in their ir<g ref="char:EOLhyphen"/>riligious opinion, and betwéen ſixe and ſeauen of the Clocke, the Carte was brought to Newgate by y<hi rend="sup">e</hi> officers which receiued them &amp; conuaied them towards Tibourn: but Maiſter <hi>Fidens</hi> ſéeing their
+<pb facs="tcp:19824:6"/>
+                  <!-- PDF PAGE 13 -->wilfulnes, went on foot after, &amp; when the priſoners were at the church walle of S. <hi>Andrewes</hi> in Holborn, the miniſter of the church named M. <hi>Eaten</hi> came vnto them &amp; in Chriſtian charitie perſwaded the<g ref="char:cmbAbbrStroke">̄</g> to think in what ſtate they then ſtood, how wilfully they had dealt againſt y<hi rend="sup">e</hi> Queens maieſties procéedings, and how greatly they had incurred her highnes diſplea<g ref="char:EOLhyphen"/>ſure towards them, wiſhing the<g ref="char:cmbAbbrStroke">̄</g> to pray for her maieſtie, to acknowlege their of<g ref="char:EOLhyphen"/>fence, &amp; hartely be ſory for the ſame. But <hi>Awfeeld</hi> ſaid you doo not well to trouble vs in theſe our meditations, neuertheles he then ſéeing them ſo néere their death and in what ſtate they ſtood: willed y<hi rend="sup">t</hi> the Cart ſhould be ſtaied and ſo went vp and conferred with them but the Préeſte ſéemed to ſtande in the defence of them both, ſaying they were euen as good ſub<g ref="char:EOLhyphen"/>iects as any there preſent, but Maiſter <hi>Eaten</hi> ſaide if that bée ſo? wherfore were you condemned, <hi>Awfeeld</hi> anſwered they ſay for fellony, why ſaid the preacher you knowe whether ye haue treſpaſſed in y<hi rend="sup">t</hi> ſorte ye or no, but he anſwered they nei<g ref="char:EOLhyphen"/>ther had offended her maieſtie nor any way deſerued that Death, then he laide
+<pb facs="tcp:19824:7"/>
+                  <!-- PDF PAGE 14 -->open their offe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and the Printed Authoritie, and ſhewed how euery Sub<g ref="char:EOLhyphen"/>iect ought to ſubmit himſelfe to the Au<g ref="char:EOLhyphen"/>thoritie of the higher powers, and repea<g ref="char:EOLhyphen"/>ted the minde of the fathers thereupon, but in concluſion what ſoeuer he did, the Préeſte ſéemed to wil y<hi rend="sup">e</hi> yonger man not to beléeue him, wherat y<hi rend="sup">e</hi> miniſter ſaid to the Préeſte your offence is great in that you are giltie of the bloode of this man, meaning the yonger man, who was in<g ref="char:EOLhyphen"/>duced by him therunto. The Préeſte not withſtanding ſaid he would take it vpon him if he ſhould ſuffer torments in <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hells for the ſame, Oh ſaid the Preacher, take héed what you doo, for look in what ſorte you dye in the ſame ſorte ſhall you come to Iudgement &amp; after many reao<g ref="char:cmbAbbrStroke">̄</g>s to diſproue their groſe errours he ſaid if you be ſo wilful I wil leue you vnto you wil &amp; wiſh you to prepare you to deth for we braw néer y<hi rend="sup">e</hi> place of execution, but he would not any way be aduiſed by him &amp; ſo came to the place of execution wheraf<g ref="char:EOLhyphen"/>ter the Executioner had faſtened the<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> y<hi rend="sup">e</hi> Rops about their necks the préeſt bega<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to profeſſe much by ſayi<g ref="char:cmbAbbrStroke">̄</g>g he would ſhew him ſelfe a dutifull ſubiect, but it proued
+<pb facs="tcp:19824:7"/>
+                  <!-- PDF PAGE 14 -->to the contrary, for al was in the aduau<g ref="char:cmbAbbrStroke">̄</g>ce<g ref="char:EOLhyphen"/>ment of him ſelfe and the Pope, and in y<hi rend="sup">e</hi> defence of y<hi rend="sup">e</hi> book which he offered to inſ<g ref="char:EOLhyphen"/>tifie, and in concluſion although he profeſ<g ref="char:EOLhyphen"/>ſed him ſelfe to be her maieſties ſubiect, and proffered to fight in her maieſties de<g ref="char:EOLhyphen"/>fence againſt all perſons y<hi rend="sup">t</hi> ſhould inuade the Realme, yet he died a Traitour, and his fellowe companion alſo (denying her maieſtie of her due title concerning the ſupremeſie in the Church of England vn der God, whoſe authoritie ſhe hath and ought of duety to be acknowledged of e<g ref="char:EOLhyphen"/>uery good Subiect) refuſing to haue any to pray with them but deſiring all Catho<g ref="char:EOLhyphen"/>licks to ſay one <hi>Credo</hi> for the<g ref="char:cmbAbbrStroke">̄</g> in y<hi rend="sup">e</hi> midſt of their Agony. And thus remaining in their obſtinate opinion they were ſoone cut off. The Lord of his mercie root out al other ſuch ſecret lurkers in corners, &amp; graunt that either they may ſpéedily be co<g ref="char:cmbAbbrStroke">̄</g>uerted or els that they may be brought to receiue their iuſt rewarde and end their daies in y<hi rend="sup">t</hi> like or more ſharper ſorte.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
